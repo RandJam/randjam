@@ -1,0 +1,2 @@
+# Install development dependencies will also install all required in production
+-r requirements/prod.txt
